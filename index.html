@@ -1,1 +1,37 @@
-# Index.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Occidental</title>
+</head>
+<body>
+
+	<header>
+		<div class="tilde">~</div>
+		<p class="tilde-info"><a href="https://en.wikipedia.org/wiki/Tilde">Tilde</a></p>
+	</header>
+
+	<div id="main-content">
+	
+		<h3>Loading web page from Netlify... Source: Github</h3>
+		
+	</div>
+	<script>
+			
+	fetch('/')
+		.then( response => response.text() )
+		.then( html => {
+			// Convert the HTML string into a document object
+			const parser = new DOMParser();
+			const doc = parser.parseFromString(html, 'text/html');
+
+			document.body.innerHTML = doc;
+		})
+		.catch( err => console.warn('Something went wrong.', err) );
+
+</script>
+
+</body>
+</html>
