@@ -1,2 +1,5 @@
-# occidental-neocities
-Content for occidental page on neocities
+# occidental
+
+Hello world! 
+
+Coming soon...
