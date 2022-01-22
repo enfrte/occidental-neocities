@@ -20,14 +20,14 @@
 	</div>
 	<script>
 			
-	fetch('/')
+	fetch('https://github.com/enfrte/occidental-neocities/blob/master/README.md')
 		.then( response => response.text() )
 		.then( html => {
 			// Convert the HTML string into a document object
 			const parser = new DOMParser();
 			const doc = parser.parseFromString(html, 'text/html');
 
-			document.body.innerHTML = doc;
+			document.querySelector('#main-content').innerHTML = doc;
 		})
 		.catch( err => console.warn('Something went wrong.', err) );
 
