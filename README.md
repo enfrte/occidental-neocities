@@ -46,7 +46,7 @@ Here are a list helpful links with personal recommendations.
 
 [L'OCCIDENTAL - Langue d'intercompréhension immédiate](https://occidental-lang.com/resources/LOccidental_-_Langue_dintercomprehension_immediate.pdf)
 
-[Occidental for English Speakers - Thinking Method Course](https://ikindalikelanguages.com/labs/courses.php?id=92)
+[Occidental for English Speakers - Thinking Method Course](https://ikindalikelanguages.com/labs/courses.php?id=92) (Recommended)
 
 [INTERLINGUE FOR BEGINNERS by Wilfrid E. Reeve (1966)](https://occidental-lang.com/interlingue-for-beginners/)
 
