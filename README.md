@@ -50,7 +50,7 @@ Here are a list helpful links with personal recommendations.
 
 [INTERLINGUE FOR BEGINNERS by Wilfrid E. Reeve (1966)](https://occidental-lang.com/interlingue-for-beginners/)
 
-[Manual de Conversation e Corespondentie](Manual de Conversation e Corespondentie)
+[Manual de Conversation e Corespondentie](https://occidental-lang.com/Manual-de-Conversation-e-Correspondentie/)
 
 [Clozemaster](https://www.clozemaster.com/l/ile-eng)
 
