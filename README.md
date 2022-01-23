@@ -11,9 +11,9 @@ Here are a list helpful links with personal recommendations.
 
 ## Community
 
-[Reddit](https://reddit.com/r/interlingue)
+[Reddit](https://reddit.com/r/interlingue) (Recommended)
 
-[Discord](https://discord.gg/HDzAYU4)
+[Discord](https://discord.gg/HDzAYU4) (Recommended)
 
 [FaceBook](https://www.facebook.com/groups/403123056383240/)
 
@@ -36,9 +36,9 @@ Here are a list helpful links with personal recommendations.
 
 [Salute, Jonathan! Natural Acquisition Course](https://en.wikibooks.org/wiki/Salute,_Jonathan!)
 
-[Salute, Jonathan! Memrise Flashcards](https://www.memrise.com/course/5677798/salute-jonathan-un-occidental-interlingue-cursu/)
+[Salute, Jonathan! Memrise Flashcards](https://www.memrise.com/course/5677798/salute-jonathan-un-occidental-interlingue-cursu/) (Recommended)
 
-[Occidental Course in 10 Lessons (1929, updated 2019)](https://occidental-lang.com/resources/OccidentalCourseIn10Lessons-EnglishTranslation.pdf)
+[Occidental Course in 10 Lessons (1929, updated 2019)](https://occidental-lang.com/resources/OccidentalCourseIn10Lessons-EnglishTranslation.pdf) (Recommended)
 
 [Grammatica de Interlingue by Dr. Fritz Haas](https://occidental-lang.com/Grammatica-de-Interlingue/)
 
@@ -52,7 +52,7 @@ Here are a list helpful links with personal recommendations.
 
 [Manual de Conversation e Corespondentie](https://occidental-lang.com/Manual-de-Conversation-e-Correspondentie/)
 
-[Clozemaster](https://www.clozemaster.com/l/ile-eng)
+[Clozemaster](https://www.clozemaster.com/l/ile-eng) (Recommended)
 
 
 ## Learning tools
@@ -65,7 +65,7 @@ Here are a list helpful links with personal recommendations.
 
 [Interlingue spellchecker for Firefox](https://addons.mozilla.org/en-US/firefox/addon/interlingue-spell-checker/)
 
-[Glosbe dictionary + translation](https://glosbe.com/ie/en)
+[Glosbe dictionary + translation](https://glosbe.com/ie/en) (Recommended)
 
 
 ## Reading material
