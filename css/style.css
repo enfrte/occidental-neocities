@@ -1,0 +1,30 @@
+body {
+	background-color: #123;
+	margin: 0;
+}
+
+.tilde {
+	margin: auto;
+	font-size: 10em;
+}
+
+.tilde-info {
+	margin: auto;
+}
+
+header {
+	background-color: #E4D00A;
+}
+
+header, #main-content {
+	display: flex;
+	flex-direction: column;
+	max-width: 600px;
+	margin: auto;
+	padding: 15px;
+
+}
+
+#main-content {
+	background-color: whitesmoke;
+}

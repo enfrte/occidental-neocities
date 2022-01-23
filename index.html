@@ -5,29 +5,32 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Occidental</title>
+
+	<link rel="stylesheet" href="css/style.css">
+	<script src="js/showdown.min.js"></script>
 </head>
 <body>
 
 	<header>
 		<div class="tilde">~</div>
-		<p class="tilde-info"><a href="https://en.wikipedia.org/wiki/Tilde">Tilde</a></p>
+		<p class="tilde-info">The tilde, the symbol of Occidental was chosen in 1936. It was selected based on five criteria: symbolic character, simplicity, originality, unlikeliness to be confused with another symbol, and for being bichromatic (having two colours) as opposed to polychromatic. Beyond the five criteria, the Occidentalists at the time referenced the advantages of the lack of a fixed meaning for the tilde in the public sphere, and its similarity to a waveform, implying speech.</p>
 	</header>
 
 	<div id="main-content">
 	
-		<h3>Loading web page from Netlify... Source: Github</h3>
+		<h3>Loading web page from Github...</h3>
 		
 	</div>
+	
 	<script>
-			
-	fetch('https://github.com/enfrte/occidental-neocities/blob/master/README.md')
-		.then( response => response.text() )
-		.then( html => {
-			// Convert the HTML string into a document object
-			const parser = new DOMParser();
-			const doc = parser.parseFromString(html, 'text/html');
 
-			document.querySelector('#main-content').innerHTML = doc;
+	// Fetch raw data from Github
+	fetch('https://raw.githubusercontent.com/enfrte/occidental-neocities/master/README.md')
+		.then( response => response.text() )
+		.then( text => {
+			const converter = new showdown.Converter();
+			const html      = converter.makeHtml(text);
+			document.querySelector('#main-content').innerHTML = html;
 		})
 		.catch( err => console.warn('Something went wrong.', err) );
 
