@@ -34,7 +34,7 @@ Here are a list helpful links with personal recommendations.
 
 ## Learning resources 
 
-[Salute, Jonathan! Natural Acquisition Course](https://en.wikibooks.org/wiki/Salute,_Jonathan!)
+[Salute, Jonathan! Natural Acquisition Course](https://en.wikibooks.org/wiki/Salute,_Jonathan!) (Recommended)
 
 [Salute, Jonathan! Memrise Flashcards](https://www.memrise.com/course/5677798/salute-jonathan-un-occidental-interlingue-cursu/) (Recommended)
 
